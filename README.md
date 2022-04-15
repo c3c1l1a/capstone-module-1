@@ -1,10 +1,8 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Aplha Tours
 
 > This project is for completing my Capstone Project requirements for first module at Microverse. It consists of two webpages for a touring company called Alpha Tours, which offers international tour packages.
 
-![screenshot](https://github.com/sumairq/capstone-module-1/blob/dev/assets/images/screenshot.png?raw=true)
+![screenshot](https://github.com/)
 
 It consists of two webpages Home and About with both being responsive to desktop and mobile layouts.
 
@@ -14,7 +12,7 @@ It consists of two webpages Home and About with both being responsive to desktop
 
 ## Live Demo
 
-- [Live Demo Link](https://sumairq.github.io/capstone-module-1/)
+- [Live Demo Link](https://)
 
 ## Getting Started
 
@@ -23,24 +21,23 @@ It consists of two webpages Home and About with both being responsive to desktop
 #### Step 1:
 - Clone this repo locally using git and the following git command
 
-  git clone https://github.com/sumairq/capstone-module-1.git
+  git clone https://github.com
 
 #### Step 2:
 - Run index.html file in your browser
 
 ## Authors
 
-👤 **Sumair Qaisar Jadoon**
+👤 **Abdul Ali**
 
-- GitHub: [@sumairq](https://github.com/sumairq)
-- Twitter: [@sumair_qaisar](https://twitter.com/sumair_qaisar)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/sumair-qaisar-jadoon-84a877164)
+- GitHub: [@ABDULALI3468](https://github.com/ABDULALI3468)
+
 
 ## 🤝 Contributions
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page!
 
 ## Show your support
 
